@@ -26,4 +26,3 @@ También podemos hacer lo mismo utilizando el comando `git diff`.
 	```git diff ETIQUETA/HASH..ETIQUETA/HASH``` - Nos muestra la diferencia entre los commits mencionados.
 
 ![imagen3](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p3/3.png)
-(imagenes)
