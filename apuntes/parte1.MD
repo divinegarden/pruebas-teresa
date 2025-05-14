@@ -23,6 +23,6 @@ Primero, vamos a crear un **README.md**, donde escribiré mi nombre y realizarem
 
 ![imagen3](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p1/3.png)
 
-Cuando hayamos creado todos los commits que queremos, podemos comprobarlos utilizando `git log --oneline --all`, que los mostrará de una forma más resumida.
+Cuando hayamos creado todos los commits que queremos, podemos **comprobarlos** utilizando `git log --oneline --all`, que los **mostrará de una forma más resumida**.
 
 ![imagen4](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p1/4.png)
