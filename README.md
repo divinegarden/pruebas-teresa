@@ -15,7 +15,7 @@ En este documento, se va a explicar **el desarrollo de un repositorio en GIT Bas
 ### ✧ PARTE 9 ― [Creación de ramas](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/parte9.MD)﹕🔔
 ### ✧ PARTE 10 ― [Fusión y eliminación de ramas](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/parte10.MD)﹕🍨
 
-<br/>
+![divider](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/divider.png)
 
 ### ✧ BONUS 1 ― [Generación de Javadoc](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/bonus1.MD)﹕📜
 ### ✧ BONUS 2 ― [Optimización](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/bonus2.MD)﹕🍙
