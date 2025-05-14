@@ -18,10 +18,10 @@ Tenemos una rama que no hemos añadido, siendo la rama2. Esta vamos a coger la o
 #### 3. Subir al repositorio ★
 Con esto hecho, podemos subirlo todo a nuestro repositorio, pero necesitaremos eliminar los apuntadores de las ramas que hemos fusionado, en local y remoto.
 
-![imagen4](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p10/4.png)
-
 Para eliminarlos, debemos hacerlo para local y remoto.
 
 ⋆ ```git branch -d NOMBRE_RAMA``` - Elimina el apuntador de la rama que mencionemos en local. En este caso, solo eliminaremos rama1.
 
 ⋆ ```git push origin --delete NOMBRE_RAMA``` - Elimina el apuntador de la rama que mencionemos en Github.
+
+![imagen4](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p10/4.png)
