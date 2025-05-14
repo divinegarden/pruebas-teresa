@@ -1,5 +1,5 @@
 ## ✦ Parte 9 - Creación de ramas
-Podemos crear ramas de nuestro repositorio utilizando dos comandos; git checkout -b y git branch. En esta parte, lo vamos a hacer de ambas formas.
+Podemos **crear ramas de nuestro repositorio** utilizando dos comandos; `git checkout -b` y `git branch`. En esta parte, lo vamos a hacer de ambas formas.
 ![imagen1](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p9/1.png)
 
 #### 1. git checkout -b ★
