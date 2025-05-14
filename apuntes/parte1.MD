@@ -2,7 +2,7 @@
 
 **Para crear un repositorio**, primero vamos a necesitar **una carpeta** donde guardar los archivos. En ella, es donde lo iniciaremos y realizaremos todos nuestros commits.
 
-	```mkdir pruebas-NOMBRE```
+	`mkdir pruebas-NOMBRE`
 Creamos la carpeta, donde NOMBRE será el nombre del desarrollador. 
 
 	```cd pruebas-NOMBRE```
