@@ -36,4 +36,7 @@ Ahora, con los archivos ignorados y la aplicación terminada; podemos subirlo a 
 
 ![imagen5](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p6/5.png)
 ![imagen6](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p6/6.png)
+
+ Ahora, en Github existe todo lo que hemos hecho.
+
 ![imagen7](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p6/7.png)
