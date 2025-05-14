@@ -2,6 +2,7 @@
 
 En este documento, se va a explicar **el desarrollo de un repositorio en GIT Bash**, dividido en partes relacionadas a nuestras actividades. Esto se ha **hecho con comandos**, que se utilizarán junto a **capturas** para **explicar el proceso**.
 
+![banner](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/cutie_banner.gif)
 
 ### ✧ PARTE 1 ― [Inicializar repositorio local](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/parte1.MD)﹕🍶
 ### ✧ PARTE 2 ― [Revisar commits realizados](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/parte2.MD)﹕🌾
