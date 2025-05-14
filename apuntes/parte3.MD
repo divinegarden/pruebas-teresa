@@ -13,16 +13,16 @@ Etiquetar un commit nos puede ayudar a varias cosas; identificar las versiones, 
 #### 2. Comparar commits ★
 Hay varios comandos para comparar dos commits, para ver las diferencias que hay sobre el commit realizado anteriormente.
 
-```git show ETIQUETA/HASH``` - Nos muestra la diferencia que hay entre el commit indicado y el realizado anteriormente, ETIQUETA/HASH siendo el identificador que vamos a usar para mencionar el commit.
+⋆ ```git show ETIQUETA/HASH``` - Nos muestra la diferencia que hay entre el commit indicado y el realizado anteriormente, ETIQUETA/HASH siendo el identificador que vamos a usar para mencionar el commit.
 
-```git show ETIQUETA/HASH..ETIQUETA/HASH``` - Nos muestra la diferencia entre los commits mencionados.
+⋆ ```git show ETIQUETA/HASH..ETIQUETA/HASH``` - Nos muestra la diferencia entre los commits mencionados.
 
 ![imagen2](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p3/2.png)
 
 También podemos hacer lo mismo utilizando el comando `git diff`.
 
-```git diff ETIQUETA/HASH``` - Como show, nos muestra la diferencia que hay en comparación con el commit realizado anterior a este, ETIQUETA/HASH siendo el commit que queremos ver.
+⋆ ```git diff ETIQUETA/HASH``` - Como show, nos muestra la diferencia que hay en comparación con el commit realizado anterior a este, ETIQUETA/HASH siendo el commit que queremos ver.
 
-```git diff ETIQUETA/HASH..ETIQUETA/HASH``` - Nos muestra la diferencia entre los commits mencionados.
+⋆ ```git diff ETIQUETA/HASH..ETIQUETA/HASH``` - Nos muestra la diferencia entre los commits mencionados.
 
 ![imagen3](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p3/3.png)
