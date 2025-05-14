@@ -1,5 +1,5 @@
 ## ✦ Parte 4 - Crear repositorio remoto y subir commits locales
-Vamos a crear un repositorio vacío en Github donde podremos subir el repositorio en el que hemos estado trabajando por ahora. Al crearlo, nos va a dar una línea de código que vamos a deber seguir para poder subirlo (en este caso, usando HTTPS).
+Vamos a **crear un repositorio vacío en Github** donde podremos **subir el repositorio en el que hemos estado trabajando por ahora**. Al crearlo, nos va a dar una línea de código que vamos a deber seguir para poder subirlo (en este caso, usando HTTPS).
 
 ![imagen1](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p4/1.png)
 ![imagen2](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p4/2.png)
@@ -16,6 +16,6 @@ Vamos a crear un repositorio vacío en Github donde podremos subir el repositori
 
 ![imagen3](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p4/3.png)
 
-Tras subir todo lo que llevamos por ahora, podemos comprobar en Github que todo se ha subido por ahora.
+Tras **subir todo lo que llevamos por ahora**, podemos comprobar en Github que todo esta guardado correctamente.
 
 ![imagen4](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p4/4.png)
