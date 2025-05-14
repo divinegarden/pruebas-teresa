@@ -10,7 +10,7 @@
 
 ```git init``` - Nos permitirá inicializar nuestro repositorio. Si volvemos a ejecutar el comando `ls -la`, podremos comprobar que hay unas nuevas carpetas en su interior.
 
-(imagen)
+![imagen1](https://github.com/divinegarden/pruebas-teresa/blob/master/apuntes/imagenesProyecto/p1/1.png)
 
 Primero, vamos a crear un **README.md**, donde escribiré mi nombre y realizaremos **el primer commit**; añadiéndolo al **área de preparación** y añadiéndolo al **repositorio**. Con esto hecho, podemos repetir el proceso varias veces.
 
