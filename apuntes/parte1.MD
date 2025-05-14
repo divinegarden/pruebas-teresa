@@ -1,10 +1,18 @@
 ### ✦ Parte 1 - Inicializar repositorio local
 
 **Para crear un repositorio**, primero vamos a necesitar **una carpeta** donde guardar los archivos. En ella, es donde lo iniciaremos y realizaremos todos nuestros commits.
-	- ```mkdir pruebas-NOMBRE``` - Creamos la carpeta, donde NOMBRE será el nombre del desarrollador. 
-	- ```cd pruebas-NOMBRE``` - La accedemos, entrando en su interior.
-	- ```ls -la``` - Para comprobar que la carpeta está vacía.
-	- ```git init``` - Nos permitirá inicializar nuestro repositorio. Si volvemos a ejecutar el comando `ls -la`, podremos comprobar que hay unas nuevas carpetas en su interior.
+
+	```mkdir pruebas-NOMBRE```
+Creamos la carpeta, donde NOMBRE será el nombre del desarrollador. 
+
+	```cd pruebas-NOMBRE```
+La accedemos, entrando en su interior.
+
+	```ls -la``` 
+Para comprobar que la carpeta está vacía.
+
+	```git init``` 
+Nos permitirá inicializar nuestro repositorio. Si volvemos a ejecutar el comando `ls -la`, podremos comprobar que hay unas nuevas carpetas en su interior.
 
 (imagen)
 
