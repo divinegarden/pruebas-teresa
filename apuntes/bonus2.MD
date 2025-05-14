@@ -9,6 +9,7 @@ Podemos hacer dos tipos de análisis, **dinámico** y **estático**.
 
 #### 2. La refactorización ★
 La **refactorización** es modificar un código de forma que **no cambie como este se comporta**. Puede ser para hacerlo **más legible, eficiente, o mantenible**. Existen varias técnicas para hacerlo.
+
 ⋆ 1. **Renombrar variables**; para que sean más descriptivas sobre su función.
 ⋆ 2. **Eliminar código redundante**; código que nos podemos ahorrar de una forma u otra.
 ⋆ 3. **Simplificación de condicionales**; que se pueden hacer con código más corto y más legible.
