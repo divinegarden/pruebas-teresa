@@ -1,4 +1,4 @@
-### ✦ Parte 7 - Usando un par de claves SSH
+## ✦ Parte 7 - Usando un par de claves SSH
 Vamos a crear una clave SSH para poder subir nuestros nuevos commits sin necesitar dar la contraseña. Esto necesitará unos ajustes en nuestra cuenta, y la ejecución de algunos comandos.
 
 ⋆ ```ssh-keygen``` - Crea una serie de claves, pidiendo donde se guardarán y una contraseña para ellas.
