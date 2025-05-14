@@ -1,4 +1,4 @@
-### ✦ Parte 1 - Inicializar repositorio local
+## ✦ Parte 1 - Inicializar repositorio local
 
 **Para crear un repositorio**, primero vamos a necesitar **una carpeta** donde guardar los archivos. En ella, es donde lo iniciaremos y realizaremos todos nuestros commits.
 
